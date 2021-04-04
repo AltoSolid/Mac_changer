@@ -8,11 +8,16 @@ This simple code let the user to change the MAC address.
 
 ## Running program and result
 Clone the reposity using:
-    `git clone https://github.com/AltoSolid/Mac_changer.git`
+
+`git clone https://github.com/AltoSolid/Mac_changer.git`
 
 Then run as images below:
 
+![run-command](https://github.com/AltoSolid/Mac_changer/blob/main/Images/run_command.png)
 
+Then check if the Mac address was changed sucessfully:
+
+![check-command](https://github.com/AltoSolid/Mac_changer/blob/main/Images/check.png)
 
 ## Technology used 
 
