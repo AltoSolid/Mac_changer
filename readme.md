@@ -6,7 +6,12 @@ This simple code let the user to change the MAC address.
 ## Language version or Readme
 [Version en español]()
 
-## Result
+## Running program and result
+Clone the reposity using:
+    `git clone https://github.com/AltoSolid/Mac_changer.git`
+
+Then run as images below:
+
 
 
 ## Technology used 
@@ -29,7 +34,7 @@ There are few tools that accomplish the same purpose of this program, some of th
 ## Be aware of
 - This program only works if you run it on a [Linux OS](https://en.wikipedia.org/wiki/Linux).
 
-
+![error-image](https://github.com/AltoSolid/Mac_changer/blob/main/Images/erro_.png)
 
 If this Error or similar appear:
 - Root privileges needed. Or permissions to run the commands in the code. Then run again the code.
